@@ -1,6 +1,6 @@
 {
     "vast_url": "",
-    "ads_enabled": false,
+    "ads_enabled": true,
     "min_version": 1,
     "force_update": false,
     "update_message": "",
